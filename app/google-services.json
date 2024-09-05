@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "452492366487",
+    "project_id": "testfontdynamic",
+    "storage_bucket": "testfontdynamic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452492366487:android:66747dab4804ae947e4fd2",
+        "android_client_info": {
+          "package_name": "com.example.testfontdynamic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwlf8k-a_PbmASItAJkfjmDA4s_3bnTAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
